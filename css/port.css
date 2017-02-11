@@ -17,25 +17,33 @@ h3 {
   color: blue;
   font-family: helvetica;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 25px;
 
 }
 
 body {
-  background-color: #acd8ab;
+background-color: #9cd39a;
 }
 
-.student {
-  width: 300px;
-  float: right;
-  margin: 10;
-  border: 2px;
-  padding: 20px;
-}
 
 .img1 {
-  float: left;
+  align: left;
   margin: 10;
   border: 2px solid gray;
   padding: 6px;
 }
+
+p.intro {
+  width: 100%;
+  font-size: 40px;
+}
+
+p.second {
+  width: 100%;
+  font-size: 30px;
+}
+
+p.extra {
+  width: 100%;
+  font-size: 40px;
+  }
